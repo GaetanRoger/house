@@ -1,0 +1,4 @@
+github.com/go-http-utils/cors v0.0.0-20170207144901-58c2accd8747 h1:Xen8Diyk3O3kFHnLVPm7qaYZnrOejsxZe7kflMudc8k=
+github.com/go-http-utils/cors v0.0.0-20170207144901-58c2accd8747/go.mod h1:x6L1NlDVMLTO9RmbuWuzEBJFZPDAwD5QHdkQ55mAyss=
+github.com/go-http-utils/headers v0.0.0-20181008091004-fed159eddc2a h1:v6zMvHuY9yue4+QkG/HQ/W67wvtQmWJ4SDo9aK/GIno=
+github.com/go-http-utils/headers v0.0.0-20181008091004-fed159eddc2a/go.mod h1:I79BieaU4fxrw4LMXby6q5OS9XnoR9UIKLOzDFjUmuw=
