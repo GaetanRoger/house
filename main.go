@@ -101,5 +101,5 @@ func main() {
 		json.NewEncoder(w).Encode(response)
 	})
 
-	log.Fatal(http.ListenAndServe(":1234", cors.Handler(mux)))
+	log.Fatal(http.ListenAndServe(":8080", cors.Handler(mux)))
 }
